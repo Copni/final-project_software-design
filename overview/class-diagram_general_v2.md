@@ -1,0 +1,1 @@
+Unfortunatly, the mermaid file was too heavy to be readable
