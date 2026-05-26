@@ -3,7 +3,8 @@
 - Nicolas Papleux
 - Arnaud Van Eeckhoven
 - Romain Dangin
-- Nail FAHIM
+- Nail Fahim
+- Yanis Zouitene
 
 ## Project Overview
 
