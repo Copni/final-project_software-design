@@ -564,5 +564,3 @@ Overall, the iterative process improved our understanding of object-oriented des
 The project proposes a modular design for a healthcare appointment management platform. The system is decomposed into functional domains, supported by use case diagrams, class diagrams, sequence diagrams, and Java prototypes.
 
 SOLID and GRASP principles improved maintainability, extensibility, and clarity. Design patterns such as Observer, Factory, Strategy, and State were used where behavior needed to vary or where object creation and lifecycle logic needed clearer structure.
-
-The current work is a design-oriented prototype. It can be extended in the future with real persistence, APIs, authentication security, payment integrations, and a user interface.
