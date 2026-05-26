@@ -6,7 +6,8 @@
 - Nicolas Papleux
 - Arnaud Van Eeckhoven
 - Romain Dangin
-- Nail FAHIM
+- Nail Fahim
+- Yanis Zouitene
 
 ## 1. Introduction
 
