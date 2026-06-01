@@ -1,4 +1,4 @@
-# Applying SOLID/GRASP principles = Strategy pattern:
+# Applying SOLID/GRASP principles + Strategy pattern:
 The payment logic was removed from Patient and Payment to respect Single Responsibility and improve cohesion.
 PaymentService now acts as a GRASP Controller that coordinates the payment process.
 BillingCalculator is responsible for computing the final amount using dedicated strategies.
